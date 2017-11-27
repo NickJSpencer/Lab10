@@ -1,0 +1,3 @@
+﻿  Particle.cpp
+c:\users\nick.spencer\documents\school\lab10-master\src\particle.cpp(56): warning C4305: '-=': truncation from 'double' to 'float'
+  lab10.vcxproj -> C:\Users\nick.spencer\Documents\School\lab10-master\x64\Debug\lab10.exe
